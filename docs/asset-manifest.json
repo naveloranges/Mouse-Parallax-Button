@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f4a3896.css",
-    "main.js": "/static/js/main.ca4e4cb6.js",
+    "main.css": "Mouse-Parallax-Button/blob/main/docs/static/css/main.6f4a3896.css",
+    "main.js": "Mouse-Parallax-Button/blob/main/docs/static/js/main.ca4e4cb6.js",
     "index.html": "/index.html",
-    "main.6f4a3896.css.map": "/static/css/main.6f4a3896.css.map",
-    "main.ca4e4cb6.js.map": "/static/js/main.ca4e4cb6.js.map"
+    "main.6f4a3896.css.map": "Mouse-Parallax-Button/blob/main/docs/static/css/main.6f4a3896.css.map",
+    "main.ca4e4cb6.js.map": "Mouse-Parallax-Button/blob/main/docs/static/js/main.ca4e4cb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f4a3896.css",
-    "static/js/main.ca4e4cb6.js"
+    "Mouse-Parallax-Button/blob/main/docs/static/css/main.6f4a3896.css",
+    "Mouse-Parallax-Button/blob/main/docs/static/js/main.ca4e4cb6.js"
   ]
 }
